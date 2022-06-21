@@ -50,7 +50,6 @@ class Main {
       default:
         System.out.println("Invalid operator!");
         break;
-		System.out.println(number1 + " / " + number2 + " = " + result);
     }
 
     input.close();
